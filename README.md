@@ -74,7 +74,7 @@
 
 - **GitHub**: [Kweenbee187](https://github.com/Kweenbee187)  
 - **LinkedIn**: [Sneha C](https://www.linkedin.com/in/sneha-c-a4715a22a/)  
-- **Open Source Portfolio**: [Kweenbee187.github.io](https://Kweenbee187.github.io)  
+- **Portfolio**: [sneha-chak-portfolio](https://sneha-chak-portfolio.vercel.app/)  
 - **Unstop**: [Profile](https://unstop.com/u/5725238)
 
 ---
